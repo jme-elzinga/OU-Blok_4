@@ -1,2 +1,2 @@
 # OU-Blok_4
-Module IC0820 uit het OU CPP Gecertificeerd Java- en app-programmeur traject (2018-2020).
+OU CPP Java - 4de blok 'Inleiding tot Datastructuren, Algoritmen en Java Collections Framework'
